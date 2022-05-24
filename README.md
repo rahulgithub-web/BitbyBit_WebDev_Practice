@@ -1,7 +1,7 @@
 # BitbyBit_WebDev_Practice
 Thanks to VIT Bhopal BitbyBit Club's Workshop on Web Development course which gave me the opportunity to know and play with creative front end web development projects. This is repository is made to showcase the practice problems they gave to do after the detailed workshop on how HTML, CSS and JAVASCRIPT works.
 
-## The 4 projects provided by the club were :
+## The 4 practice project ideas provided by the club were :
 <ul>
   <li>Stop Watch</li>
   <li>Tic Tac Toe</li>
