@@ -16,6 +16,8 @@ Thanks to VIT Bhopal BitbyBit Club's Workshop on Web Development course which ga
  
  #### Description:
  
+ The main page of this project stands on the `index.html` with the css styling contained in `style.css` and the javascript data in `script.js` files. This project files can be found in `./stopwatch` directory
+ 
  First of all, I have made a gradient colored ring with colors ranging from Violet to Red (VIBGYOR). The colored circle is covered by a background color circle to create the ring shape as shown. I have added some effects when someone hovers on the **Start**, **Stop** or **Reset** button to make the website feel more alive.
  
  As per the javascript of this project, this is rather simple. A simple `setTimeout` function is used to recur through the functions for every 10 ms. Further its coded to set the milisecond and second to 0 respectively when the milisecond variable hits 100 and the second variable hits 60 to increment second and minute variables. Also to maintain the 2 digit form of the number for the full time while the stopwatch runs, it coded such that whenever the milisecond, second or the minute value is less than 10, it will add a string '0'
