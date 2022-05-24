@@ -9,10 +9,10 @@ Thanks to VIT Bhopal BitbyBit Club's Workshop on Web Development course which ga
   <li>Rock Paper Scissor</li>
   </ul>
   
- ### So Following are the project descriptions and demo images of them done by me :
+ ## So Following are the project descriptions and demo images of them done by me :
  
  
- ## Stop Watch
+ ### Stop Watch
  
  #### Description:
  
