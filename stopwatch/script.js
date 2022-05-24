@@ -48,9 +48,6 @@ function stopwatch() {
         if(min < 10){
             extra0min = '0' + min;
         }
-        if(milsec == 99 && sec == 99 && min == 99){
-            watchStatus == false;
-        }
         document.getElementById("mili-sec").innerHTML = extra0milsec;
         document.getElementById("sec").innerHTML = extra0sec;
         document.getElementById("min").innerHTML = extra0min;
