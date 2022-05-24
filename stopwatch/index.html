@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="stop-watch">
+            <div class="oc center-flex">
+                <div class="ic center-flex">
+                    <div class="time-text center-flex">
+                        <div id="min">00</div>
+                        <div class="colon">&nbsp;:&nbsp;</div>
+                        <div id="sec">00</div>
+                        <div class="colon">&nbsp;:&nbsp;</div>
+                        <div id="mili-sec">00</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="btn center-flex">
+            <button class="reset btn-common" onclick="resetStopwatch()">RESET</button>
+            <button class="start btn-common" onclick="startStopwatch()">START</button>
+            <button class="stop btn-common" onclick="stopStopwatch()">STOP</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
