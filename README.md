@@ -1,6 +1,6 @@
-## University-Website
+#### University-Website
 
-#### Description:
+## Description:
 # Tech Stack Used: HTML, CSS, Javascript
 
 # This is multi page website having different pages with different content inside it 
