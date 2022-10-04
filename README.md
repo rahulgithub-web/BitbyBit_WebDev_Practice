@@ -1,4 +1,4 @@
-#### University-Website
+# University-Website
 
 ## Description:
 # Tech Stack Used: HTML, CSS, Javascript
