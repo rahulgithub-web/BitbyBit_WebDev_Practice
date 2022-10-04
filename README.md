@@ -5,7 +5,7 @@ Tech Stack Used: HTML, CSS, Javascript
 
 This is multi page website having different pages with different content inside it 
 
-#This websites holds various pages like:
+## This websites holds various pages like:
 <ul>
   <li>Home</li>
   <li>About</li>
